@@ -1,0 +1,24 @@
+{
+  "name": "my-ebs-repo",
+  "version": "1.0.0",
+  "description": "This is my test nodeJS pkg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneminutelab/my-ebs-repo.git"
+  },
+  "author": "AbuBaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oneminutelab/my-ebs-repo/issues"
+  },
+  "homepage": "https://github.com/oneminutelab/my-ebs-repo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
